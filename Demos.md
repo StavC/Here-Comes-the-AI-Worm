@@ -29,11 +29,15 @@ Copilot 365 exhibits similar behavior by retrieving multiple prior emails—**16
 
 The following videos show full interactions with Gemini and Copilot:
 
-- **Copilot 365 Work Mode (Outlook):**  
-  [https://youtu.be/2f7QkydQonk](https://youtu.be/2f7QkydQonk)
+### Copilot 365 Work Mode (Outlook)
 
-- **Gemini 2.0 Flash (Gmail):**  
-  [https://youtu.be/Qw7d4oNmsMI](https://youtu.be/Qw7d4oNmsMI)
+[![Watch on YouTube](https://img.youtube.com/vi/henYLKV4KUk/0.jpg)](https://youtu.be/henYLKV4KUk)
+
+---
+
+### Gemini 2.0 Flash (Gmail)
+
+[![Watch on YouTube](https://img.youtube.com/vi/DC2lf8hIzho/0.jpg)](https://youtu.be/DC2lf8hIzho)
 
 ---
 
@@ -41,8 +45,10 @@ The following videos show full interactions with Gemini and Copilot:
 
 We demonstrate how **Gemini Advanced for Gmail** is vulnerable to self-replicating prompt attacks (RAGworm):
 
-- **Watch the attack demo:**  
-  [https://youtu.be/fvJ6rekz2KU](https://youtu.be/fvJ6rekz2KU)
+### Attack Demo
+
+[![Watch on YouTube](https://img.youtube.com/vi/ZDyMJpA-fVw/0.jpg)](https://youtu.be/ZDyMJpA-fVw)
+
 
 ### 💥 Attack Flow:
 1. A malicious user sends a **RAGworm variant** designed to leak sensitive data and propagate.
