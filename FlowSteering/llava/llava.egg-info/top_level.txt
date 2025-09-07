@@ -1,5 +1,0 @@
-data
-llava_weights
-model
-serve
-train
