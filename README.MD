@@ -22,7 +22,7 @@
 <br>
 
 <p align="center">
-  <img src="Assets/Icon.png" alt="Logo" width="300" height="200">
+  <img src="Legacy_Arxiv_V1/Assets/Icon.png" alt="Logo" width="300" height="200">
 
 
 
